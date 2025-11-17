@@ -1,0 +1,4 @@
+- Project purpose
+- Technologies used (HTML, CSS, JS)
+- How to run the page
+- What you learned in Week 1
